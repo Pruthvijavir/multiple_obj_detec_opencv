@@ -1,4 +1,4 @@
-# multiple_obj_detec_opencv
+# Multiple_Obj_Detec_OpenCV
 Multiple object detection
 An OpenCV based object detection system to detect objects like cars and pedestrians in a video .
 # OpenCV
